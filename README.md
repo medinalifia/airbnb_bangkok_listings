@@ -11,7 +11,7 @@ Work performed:
 - Produced a cleaned dataset and multiple visualizations
 
 In addition to the core analysis, I also prepared the following documents for better understanding:
-- 🎥 Video of the presentation
+- 🎥 Video of the presentation (https://drive.google.com/file/d/1rn9PebpHsOUFHZVOGA7xzfxW6Krkk2xY/view?usp=sharing)
 - 📓 Jupyter Notebook containing all data cleaning, analysis, and visualizations in detail
 - 📊 Presentation slides (PPT) summarizing key insights and recommendations
 - 🌐 Interactive Tableau Dashboard (https://public.tableau.com/views/MedinaAlifiaJuniarto-FixAirbnbListingsBangkok-Capstone2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
