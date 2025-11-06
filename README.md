@@ -14,7 +14,7 @@ In addition to the core analysis, I also prepared the following documents for be
 - 🎥 Video of the presentation
 - 📓 Jupyter Notebook containing all data cleaning, analysis, and visualizations in detail
 - 📊 Presentation slides (PPT) summarizing key insights and recommendations
-- 🌐 Interactive Tableau Dashboard 
+- 🌐 Interactive Tableau Dashboard (https://public.tableau.com/views/MedinaAlifiaJuniarto-FixAirbnbListingsBangkok-Capstone2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📚 Data dictionary
 
