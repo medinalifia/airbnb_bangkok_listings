@@ -10,28 +10,24 @@ Work performed:
 - Revenue estimation (simple proxy)
 - Produced a cleaned dataset and multiple visualizations
 
-📚 Data dictionary (summary)
+In addition to the core analysis, I also prepared the following documents for better understanding:
+- 🎥 Video of the presentation
+- 📓 Jupyter Notebook containing all data cleaning, analysis, and visualizations in detail
+- 📊 Presentation slides (PPT) summarizing key insights and recommendations
+- 🌐 Interactive Tableau Dashboard 
+
+📚 Data dictionary
 
 Key columns used in the analysis:
 
-id — unique listing id
-
-name — accommodation name (may be missing)
-
-host_id, host_name — host identifiers and names
-
-neighbourhood, latitude, longitude — location info
-
-room_type — [Entire home/apt / Private room / Shared room / Hotel room]
-
-price — listing price (THB) — treated as price per night in analysis
-
-minimum_nights — minimum stay (nights)
-
-number_of_reviews, reviews_per_month, last_review — review metrics
-
-calculated_host_listings_count — number of listings owned by host in dataset
-
-availability_365 — calendar availability (days/year)
-
-Derived columns: price_per_night, estimated_revenue (price × number_of_reviews), last_review (Year)
+1) id — unique listing id
+2) name — accommodation name (may be missing)
+3) host_id, host_name — host identifiers and names
+4) neighbourhood, latitude, longitude — location info
+5) room_type — [Entire home/apt / Private room / Shared room / Hotel room]
+6) price — listing price (THB) — treated as price per night in analysis
+7) minimum_nights — minimum stay (nights)
+8) number_of_reviews, reviews_per_month, last_review — review metrics
+9) calculated_host_listings_count — number of listings owned by host in dataset
+10) availability_365 — calendar availability (days/year)
+11) derived columns: price_per_night, estimated_revenue (price × number_of_reviews), last_review (Year)
